@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc0f1c95-4a34-45bf-b900-2319e94f365c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enunciado TP Integrador - ENTREGA 1 - Desarrollador Java Inicial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/Integrador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/out/production/Integrador/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/out/production/Integrador/Pronostico/Equipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/out/production/Integrador/Pronostico/Partido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/src/Pronostico/Equipo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integrador/src/Pronostico/Partido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pronosticos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pronosticos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resultados.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resultados.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OZTLnqsJoHgd6fEr3wfui4kLAN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/agusg/Desktop/Trabajo-Integrador-UTN/TrabajoIntegradorUTN"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc0f1c95-4a34-45bf-b900-2319e94f365c" name="Changes" comment="" />
+      <created>1681767050252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681767050252</updated>
+    </task>
+    <servers />
+  </component>
+</project>
